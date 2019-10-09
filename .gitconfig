@@ -1,0 +1,6 @@
+[user]
+ name =jsh423
+ email=jsh423@163.com
+ [credential]
+ #helper=cache
+ helper=store
